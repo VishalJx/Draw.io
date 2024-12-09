@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="4">
   <diagram name="Page-1" id="qxASLE4WWRQsIeYxuDAG">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -313,6 +313,62 @@
         <mxCell id="VjWkSIhrwctC4RF1089R-20" value="Zustand" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="950" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LfSySsPiVQjI0gz7CocZ" name="Page-3">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EmXES2oKNxc8n-zv6bV2-1" value="profile(NOT SCHEMA)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmXES2oKNxc8n-zv6bV2-4" value="username,&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;profile_pic,&lt;/div&gt;&lt;div&gt;banner,&lt;/div&gt;&lt;div&gt;category,&lt;/div&gt;&lt;div&gt;posts,&lt;/div&gt;&lt;div&gt;followers[],&lt;/div&gt;&lt;div&gt;following[],&lt;/div&gt;&lt;div&gt;styles,&lt;/div&gt;&lt;div&gt;posts[],&lt;/div&gt;&lt;div&gt;description,&lt;/div&gt;&lt;div&gt;rating,&lt;/div&gt;&lt;div&gt;category&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ULz4pMmxbse4XyVkr4Jt-1" value="track your order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULz4pMmxbse4XyVkr4Jt-2" value="order_date,&lt;div&gt;order_id,&lt;/div&gt;&lt;div&gt;amount,&lt;/div&gt;&lt;div&gt;exp_delivery_date,&lt;/div&gt;&lt;div&gt;shipping_address&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="215" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ULz4pMmxbse4XyVkr4Jt-3" value="signup(USER)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULz4pMmxbse4XyVkr4Jt-4" value="&lt;div&gt;email,&lt;/div&gt;&lt;div&gt;password,&lt;/div&gt;name,&lt;div&gt;username,&lt;/div&gt;&lt;div&gt;state,&lt;/div&gt;&lt;div&gt;phone_number,&lt;/div&gt;&lt;div&gt;dob,&lt;/div&gt;&lt;div&gt;isSeller(0/1)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ULz4pMmxbse4XyVkr4Jt-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;signup(SELLER)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ULz4pMmxbse4XyVkr4Jt-6" value="&lt;div&gt;email,&lt;/div&gt;&lt;div&gt;password,&lt;/div&gt;name,&lt;div&gt;username,&lt;/div&gt;&lt;div&gt;state,&lt;/div&gt;&lt;div&gt;phone_number,&lt;/div&gt;&lt;div&gt;dob,&lt;/div&gt;&lt;div&gt;isSeller(0/1)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="100" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AqbCuvkRfjojBRNb4LYl-1" value="&lt;b&gt;/api/profile:id&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AqbCuvkRfjojBRNb4LYl-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.6;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ULz4pMmxbse4XyVkr4Jt-4" target="EmXES2oKNxc8n-zv6bV2-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="470" as="sourcePoint" />
+            <mxPoint x="70" y="563" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="500" />
+              <mxPoint x="210" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AqbCuvkRfjojBRNb4LYl-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;User Detail&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="445" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WqrRPz77ryPihSKDOiHW" name="Page-4">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
