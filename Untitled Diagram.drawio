@@ -421,12 +421,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mqHwGI_LqDd8mVgrgTSP" name="Page-5">
-    <mxGraphModel dx="1580" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HiTxKXa3_X5GdERSaHN6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="810" width="320" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="8ImkMyxDt-3jETlRQK3P-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="827" y="-100" width="633" height="1200" as="geometry" />
+          <mxGeometry x="828" y="-98" width="933" height="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="HiTxKXa3_X5GdERSaHN6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="932" y="740" width="338" height="370" as="geometry" />
         </mxCell>
         <mxCell id="l-mH_1mAu79jWL0PEHqd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="30" width="330" height="100" as="geometry" />
@@ -470,8 +476,8 @@
         <mxCell id="yhsVgUrrOjak_2UAdhd8-8" value="&lt;b&gt;GET:&lt;span style=&quot;color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; -webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; -webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;https://demo.devzone1.in/consumer/api/v1/system/?location=315&amp;amp;no_page=1&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="500" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yhsVgUrrOjak_2UAdhd8-11" value="apis which hit:-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="100" height="30" as="geometry" />
+        <mxCell id="yhsVgUrrOjak_2UAdhd8-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; apis:-&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yhsVgUrrOjak_2UAdhd8-12" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="40" width="40" height="30" as="geometry" />
@@ -523,10 +529,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="8ImkMyxDt-3jETlRQK3P-7" value="&lt;div&gt;FROM IPC LISTNER.JS&lt;br&gt;IT WILL GET THE LOCAL IP IF AVAILABLE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1224" y="445" width="206" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="m8ckdfRdjlJiDPBA9qJZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ImkMyxDt-3jETlRQK3P-12" target="m8ckdfRdjlJiDPBA9qJZ-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1224" y="437.5" width="206" height="75" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.597;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="scb2lOnAkoNS8JEHy761-2" target="scb2lOnAkoNS8JEHy761-3">
           <mxGeometry relative="1" as="geometry">
@@ -540,14 +543,11 @@
         <mxCell id="8ImkMyxDt-3jETlRQK3P-12" value="&lt;div&gt;Step 3: Enter Device Details&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- IP, Port, Username&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Model, Stream Type&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Number of Channels&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="961" y="610" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="scb2lOnAkoNS8JEHy761-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8ckdfRdjlJiDPBA9qJZ-1" target="scb2lOnAkoNS8JEHy761-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m8ckdfRdjlJiDPBA9qJZ-1" value="Test and Connect&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Validate connection&lt;br&gt;&amp;nbsp; &amp;nbsp;- Retry on error" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="961" y="770" width="280" height="90" as="geometry" />
+        <mxCell id="m8ckdfRdjlJiDPBA9qJZ-1" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;testConnectivity()&lt;/span&gt;&lt;/div&gt;&lt;br&gt;Test and Connect&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Validate connection&lt;br&gt;&amp;nbsp; &amp;nbsp;- Retry on error&lt;br&gt;&lt;br&gt;IT CHECKS THE PLATFORM&lt;div&gt;TYPE IF WIN32 BYPASS ACCESS&lt;br&gt;OTHERWISE EXECUTE CHILEPROCESS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="958" y="880" width="280" height="151" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-3" value="SUCCESSFULLY ADDED" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="961" y="920" width="280" height="100" as="geometry" />
+          <mxGeometry x="959" y="1240" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ImkMyxDt-3jETlRQK3P-12" target="scb2lOnAkoNS8JEHy761-2">
           <mxGeometry relative="1" as="geometry">
@@ -555,7 +555,7 @@
             <mxPoint x="880" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scb2lOnAkoNS8JEHy761-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="scb2lOnAkoNS8JEHy761-2" target="m8ckdfRdjlJiDPBA9qJZ-1">
+        <mxCell id="scb2lOnAkoNS8JEHy761-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="scb2lOnAkoNS8JEHy761-2" target="HiTxKXa3_X5GdERSaHN6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-2" value="IF SUPER ADMIN&lt;br&gt;AND CHECKE&lt;br&gt;BOX&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(33, 37, 41); font-family: system-ui; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Onboard camera without verfiy details&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
@@ -569,6 +569,15 @@
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-14" value="COMPONENTS:-SYSTEMFORM.JS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="854" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HiTxKXa3_X5GdERSaHN6-4" value="GenerateSnapShots to check if info provided is right or not if a single snapshots generated then it is right and&amp;nbsp; addsystem() wil called" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1130" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HiTxKXa3_X5GdERSaHN6-7" value="IPCLISTNER.JS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="750" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HiTxKXa3_X5GdERSaHN6-9" value="NETWORK.SJS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="961" y="820" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
