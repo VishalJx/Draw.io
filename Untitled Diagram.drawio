@@ -421,12 +421,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mqHwGI_LqDd8mVgrgTSP" name="Page-5">
-    <mxGraphModel dx="1823" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8ImkMyxDt-3jETlRQK3P-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="827" width="610" height="1080" as="geometry" />
+          <mxGeometry x="827" y="-100" width="633" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="l-mH_1mAu79jWL0PEHqd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="30" width="330" height="100" as="geometry" />
@@ -467,8 +467,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhsVgUrrOjak_2UAdhd8-8" value="GET:&lt;b style=&quot;color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; -webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; -webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;https://demo.devzone1.in/consumer/api/v1/system/?location=315&amp;amp;no_page=1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="140" width="480" height="30" as="geometry" />
+        <mxCell id="yhsVgUrrOjak_2UAdhd8-8" value="&lt;b&gt;GET:&lt;span style=&quot;color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; -webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; -webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;https://demo.devzone1.in/consumer/api/v1/system/?location=315&amp;amp;no_page=1&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yhsVgUrrOjak_2UAdhd8-11" value="apis which hit:-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="100" height="30" as="geometry" />
@@ -505,27 +505,25 @@
         <mxCell id="TsyTJeLZrPShMUgmSIud-4" value="apis which hit :-" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1011" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TsyTJeLZrPShMUgmSIud-7" value="GET:&lt;b style=&quot;-webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent; color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;-webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent; color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px;&quot;&gt;https://demo.devzone1.in/consumer/api/v1/locations/?no_page=1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="317" width="410" height="30" as="geometry" />
+        <mxCell id="TsyTJeLZrPShMUgmSIud-7" value="&lt;b&gt;GET:&lt;span style=&quot;-webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent; color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;-webkit-text-stroke-color: rgb(47, 53, 60); text-wrap-mode: wrap; background-color: transparent; color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px;&quot;&gt;https://demo.devzone1.in/consumer/api/v1/locations/?no_page=1&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="317" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ImkMyxDt-3jETlRQK3P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TsyTJeLZrPShMUgmSIud-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1005" y="610" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="scb2lOnAkoNS8JEHy761-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TsyTJeLZrPShMUgmSIud-8" target="8ImkMyxDt-3jETlRQK3P-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TsyTJeLZrPShMUgmSIud-8" value="Step 2: Select Device&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Discover or add manually&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="420" width="250" height="100" as="geometry" />
+          <mxGeometry x="974" y="430" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8ImkMyxDt-3jETlRQK3P-3" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="380" width="320" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;GET:&lt;/span&gt;&lt;b style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke: 0px rgb(47, 53, 60); white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(47, 53, 60); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px; box-shadow: none !important;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: rgb(145, 93, 71); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(210, 210, 210);&quot;&gt;/consumer/api/v1/camera-model/?no_page=1&lt;/span&gt;" link="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;GET:&lt;/span&gt;&lt;b data-mx-given-colors=&quot;{&amp;quot;-webkit-text-stroke-color&amp;quot;:&amp;quot;rgb(47, 53, 60)&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;rgb(47, 53, 60)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; box-shadow: none !important; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke: 0px light-dark(rgb(47, 53, 60), rgb(188, 193, 199)); white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: light-dark(rgb(47, 53, 60), rgb(188, 193, 199)); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span data-mx-given-colors=&quot;{&amp;quot;-webkit-text-stroke-color&amp;quot;:&amp;quot;rgb(47, 53, 60)&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;rgb(47, 53, 60)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; box-shadow: none !important; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke: 0px light-dark(rgb(47, 53, 60), rgb(188, 193, 199)); white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: light-dark(rgb(47, 53, 60), rgb(188, 193, 199)); font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-indent: -36px;&quot;&gt;https://demo.devzone1.in/consumer/api/v1/locations/?no_page=1&lt;/span&gt;" id="8ImkMyxDt-3jETlRQK3P-4">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1019" y="358" width="420" height="40" as="geometry" />
+            <mxGeometry x="1110" y="358" width="420" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8ImkMyxDt-3jETlRQK3P-7" value="&lt;div&gt;FROM IPC LISTNER.JS&lt;br&gt;IT WILL GET THE LOCAL IP IF AVAILABLE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="435" width="220" height="70" as="geometry" />
+          <mxGeometry x="1224" y="445" width="206" height="75" as="geometry" />
         </mxCell>
         <mxCell id="m8ckdfRdjlJiDPBA9qJZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ImkMyxDt-3jETlRQK3P-12" target="m8ckdfRdjlJiDPBA9qJZ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -540,13 +538,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ImkMyxDt-3jETlRQK3P-12" value="&lt;div&gt;Step 3: Enter Device Details&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- IP, Port, Username&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Model, Stream Type&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Number of Channels&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="610" width="280" height="100" as="geometry" />
+          <mxGeometry x="961" y="610" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="scb2lOnAkoNS8JEHy761-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8ckdfRdjlJiDPBA9qJZ-1" target="scb2lOnAkoNS8JEHy761-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m8ckdfRdjlJiDPBA9qJZ-1" value="Test and Connect&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Validate connection&lt;br&gt;&amp;nbsp; &amp;nbsp;- Retry on error" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="770" width="280" height="100" as="geometry" />
+          <mxGeometry x="961" y="770" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-3" value="SUCCESSFULLY ADDED" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="920" width="280" height="100" as="geometry" />
+          <mxGeometry x="961" y="920" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ImkMyxDt-3jETlRQK3P-12" target="scb2lOnAkoNS8JEHy761-2">
           <mxGeometry relative="1" as="geometry">
@@ -558,7 +559,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-2" value="IF SUPER ADMIN&lt;br&gt;AND CHECKE&lt;br&gt;BOX&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(33, 37, 41); font-family: system-ui; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Onboard camera without verfiy details&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="580" y="750" width="170" height="170" as="geometry" />
+          <mxGeometry x="570" y="750" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-7" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="900" width="60" height="30" as="geometry" />
@@ -567,7 +568,7 @@
           <mxGeometry x="750" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scb2lOnAkoNS8JEHy761-14" value="COMPONENTS:-SYSTEMFORM.JS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="854" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
