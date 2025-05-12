@@ -421,7 +421,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mqHwGI_LqDd8mVgrgTSP" name="Page-5">
-    <mxGraphModel dx="4740" dy="3745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,7 +486,7 @@
           <mxGeometry x="150" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yhsVgUrrOjak_2UAdhd8-12" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="780" y="40" width="40" height="30" as="geometry" />
+          <mxGeometry x="827" y="50" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yhsVgUrrOjak_2UAdhd8-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -553,7 +553,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8ImkMyxDt-3jETlRQK3P-12" value="&lt;div&gt;Step 3: Enter Device Details&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- IP, Port, Username&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Model, Stream Type&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Number of Channels&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="603" width="311" height="100" as="geometry" />
+          <mxGeometry x="930" y="578" width="311" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m8ckdfRdjlJiDPBA9qJZ-1" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;testConnectivity()&lt;/span&gt;&lt;/div&gt;&lt;br&gt;Test and Connect&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Validate connection&lt;br&gt;&amp;nbsp; &amp;nbsp;- Retry on error&lt;br&gt;&lt;br&gt;IT CHECKS THE PLATFORM&lt;div&gt;TYPE IF WIN32 BYPASS ACCESS&lt;br&gt;OTHERWISE EXECUTE CHILEPROCESS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="958" y="880" width="280" height="151" as="geometry" />
